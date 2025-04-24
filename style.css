@@ -1,0 +1,40 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 430px;
+    height: 272px;
+    border-radius: 44px;
+    margin: 0 auto;
+    padding: 32px;
+    background: linear-gradient(180deg, #6AF2F0 -64.48%, #c6c7c9 9.15%);
+    
+}
+#prog{
+        height: 5px;
+        background-color: rgb(72, 72, 73);
+}
+#select{
+    width: 375px;
+    height: 40px;
+    border-radius: 20px;
+    border-width: 1px;
+    margin: 20px 0;
+}
+button{
+    width: 55px;
+    height: 38px;
+    border-radius: 4px;
+}
+img{
+    width: 375px;
+    height: 400px;
+}
+h1{
+    margin-bottom: 20px;
+    font-family: Montserrat;
+}
+h2{
+    font-family: Montserrat;
+}
